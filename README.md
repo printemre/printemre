@@ -1,4 +1,4 @@
-<img alt="Resim" draggable="true" src="https://pbs.twimg.com/profile_images/1484074855217737732/Z_Kb6tIA_400x400.jpg" class="css-9pa8cd">
+<img align="right" alt="avatar" width="200" src="200w.gif"> 
 
 ## printemre
  ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
