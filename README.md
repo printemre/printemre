@@ -1,6 +1,6 @@
 <img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
 
-## Beyaz Takkeli Tornaci 👋  Can Deger
+## printemre
  ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
  <!--
  ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
@@ -13,20 +13,20 @@
           ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
  </tr>
 <tr>
-  <td><a href="https://youtube.com/candeger">
+  <td><a href="https://youtube.com/printemre">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a> 
-<td><a href="https://twitch.tv/lunizz">
+<td><a href="https://twitch.tv/printemre">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
-<td><a href="https://dc.lunizz.com">
+<td><a href="https://dc.printemre.com">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
   <tr>
-<td><a href="https://instagram.com/candeger">
+<td><a href="https://instagram.com/printemre">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-<td><a href="https://twitter.com/CanDeger">
+<td><a href="https://twitter.com/printemre">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <td><a href="https://github.com/printemre">
@@ -44,11 +44,11 @@
 </a>
   </tr>
 </table>
-<a href="https://github.com/printemre"> ❓ SIKCA SORULAN SORULAR ❓ </a>
+<a href="https://github.com/printemre"> ❓ PROJELER ❓ </a>
 <br></br>
 
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=printemre.printemre)](#)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lunizz&theme=blue-green">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=printemre&theme=blue-green">
